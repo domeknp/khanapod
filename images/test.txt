@@ -1,3 +1,0 @@
-git add path/to/image.jpg
-git commit -m "เพิ่มรูปภาพ"
-git push
